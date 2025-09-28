@@ -14,7 +14,7 @@
 
 * [Vusuals code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization%20code.py) - This code was used for the visualization.
 
-* [Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization.png) - This is the actual visualization (bar graph), showing the relationship between the Time watched per Platform.
+* ![Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization.png) - This is the actual visualization (bar graph), showing the relationship between the Time watched per Platform.
 
 ## Tools used
 * Databricks
