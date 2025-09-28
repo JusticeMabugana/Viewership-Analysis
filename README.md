@@ -10,6 +10,6 @@
 
 [Dataset](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Input%20data/Viewership%20Analysis%20.xlsx)
 
-[Python Code]()
+[Python Code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20Python%20code.py)
 
 [Visuals]()
