@@ -12,6 +12,6 @@
 
 [Python Code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20Python%20code.py)
 
-[Vusuals code]()
+[Vusuals code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization%20code.py)
 
 [Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization.png)
