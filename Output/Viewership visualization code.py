@@ -1,4 +1,4 @@
- Aggregate total time watched by platform
+# Aggregate total time watched by platform
 platform_totals = df.groupby('Platform')['TotalTimeWatched'].sum()
 
 # Plot the aggregated data
@@ -14,4 +14,5 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 
 plt.show()
+
 
