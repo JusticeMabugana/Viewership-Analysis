@@ -12,4 +12,6 @@ plt.ylabel('Total Time Watched')
 plt.title('Total Time Watched per Platform')
 plt.xticks(rotation=45)
 plt.tight_layout()
+
 plt.show()
+
