@@ -8,10 +8,10 @@
 
 ## Project files
 
-[Dataset](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Input%20data/Viewership%20Analysis%20.xlsx)
+* [Dataset](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Input%20data/Viewership%20Analysis%20.xlsx) - This file contains the dataset used in this analysis.
 
-[Python Code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20Python%20code.py)
+* [Python Code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20Python%20code.py) - This is the code used in the EDA.
 
-[Vusuals code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization%20code.py)
+* [Vusuals code](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization%20code.py) - This code was used for the visualization.
 
-[Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization.png)
+* [Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization.png) - This is the actual visualization (bar graph), showing the relationship between the Time watched per Platform.
