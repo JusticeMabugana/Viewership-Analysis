@@ -10,6 +10,8 @@
 # import pandas for data manipulation
 import pandas as pd
 
+# import matplotlib for data visualization
+import matplotlib.pyplot as plt
 
 # import numpy for numerical operations
 import numpy as np
@@ -46,3 +48,4 @@ df.duplicated().sum()
 
 # Displays the DataFrame
 display(df)
+
