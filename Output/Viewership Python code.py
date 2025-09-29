@@ -49,3 +49,22 @@ df.duplicated().sum()
 # Displays the DataFrame
 display(df)
 
+# Returns the number of rows and columns in the DataFrame
+df.shape
+
+# Returns the first 5 rows of the DataFrame
+df.head(5)
+
+# Returns the last 5 rows of the DataFrame
+df.tail(5)
+
+# Returns the number of null values in each column of the DataFrame
+df.isnull().sum()   
+
+# allows us to rename columns and use the new names going foward
+df.rename(columns={'DateID':'Date'}, inplace=True)
+
+# allows us to display data
+display(df)
+
+
