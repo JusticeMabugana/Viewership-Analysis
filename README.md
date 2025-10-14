@@ -17,7 +17,7 @@
 
  This is the actual visualization (bar graph), showing the relationship between the Time watched per Platform:
  
- ![Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Viewership%20visualization.png) 
+ ![Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/Unique%20customers%20per%20platform.png) 
 
 ## Tools used
 * Databricks
