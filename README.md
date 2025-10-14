@@ -22,4 +22,7 @@
 ![Visuals](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Output/time%20watched%20per%20platform.png)
 
 ## Tools used
-* Databricks
+* Databricks (Python)
+* Pandas
+* Numpy
+* Matplotlib
