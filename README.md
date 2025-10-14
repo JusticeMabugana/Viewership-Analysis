@@ -6,6 +6,18 @@
 
 * This dataset offers insights into viewing habits across multiple platforms, detailing which shows customers watched, the duration of viewing, the dates of viewing, and whether the shows were watched live or on-demand.
 
+* Date - Represents the calendar date when the viewing event occurred.
+
+* CustomerID - A unique, anonymized identifier assigned to each customer or user. It tracks user activity without revealing personal information.
+
+* TotalTimeWatched - The total duration, in seconds, that the user spent watching the specific content during that session or event.
+
+* Platform - Indicates the device or application platform used to stream the content.
+
+* PlayEventType - Categorizes the type of content or how it was accessed.
+
+#VideoTitle - The title of the video content watched by the user.
+
 ## Project files
 
 * [Dataset](https://github.com/JusticeMabugana/Viewership-Analysis/blob/main/Input%20data/Viewership%20Analysis%20.xlsx) - This file contains the dataset used in this analysis.
